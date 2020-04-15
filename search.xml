@@ -5,10 +5,10 @@
     
     <entry>
       <title>react-hooks</title>
-      <link href="/2020/04/07/react-hooks/"/>
-      <url>/2020/04/07/react-hooks/</url>
+      <link href="/category/react-hooks/"/>
+      <url>/category/react-hooks/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><!-- @format --><div class="hide-block"><a class="hide-button button--primary button--animated" style="color:#fff;">Click    </a><span class="hide-content"><p>content</p></span></div><img src="/img/loading.gif"  lazyloadclass="" title="React Hooks" data-src="/2020/04/07/react-hooks/hooks.jpg">]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><!-- @format --><div class="hide-block"><a class="hide-button button--primary button--animated" style="color:#fff;">Click    </a><span class="hide-content"><p>content</p></span></div><img src="/img/loading.gif"  lazyloadclass="" title="React Hooks" data-src="/category/react-hooks/hooks.jpg">]]></content>
       
       
       
@@ -18,8 +18,8 @@
     
     <entry>
       <title>reactnative-navigation</title>
-      <link href="/2020/04/07/reactnative-navigation/"/>
-      <url>/2020/04/07/reactnative-navigation/</url>
+      <link href="/category/reactnative-navigation/"/>
+      <url>/category/reactnative-navigation/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><!-- @format --><div class="note ">            <p>npm install -g expo-cli</p>          </div><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm install -g expo-cli</span><br><span class="line"></span><br></pre></td></tr></table></figure><div class="justified-gallery"><p><img src="/img/loading.gif" class="lazyload" data-src="https://gratisography.com/wp-content/uploads/2019/10/gratisography-scary-pumpkin-hand-900x600.jpg"  alt=""><br><img src="/img/loading.gif" class="lazyload" data-src="https://gratisography.com/wp-content/uploads/2019/10/gratisography-fresh-fish-dinner-900x600.jpg"  alt=""><br><img src="/img/loading.gif" class="lazyload" data-src="https://gratisography.com/wp-content/uploads/2019/10/gratisography-mountain-cloud-landscape-900x600.jpg"  alt=""><br><img src="/img/loading.gif" class="lazyload" data-src="https://picjumbo.com/wp-content/uploads/iphone-free-stock-photos-2210x3315.jpg"  alt=""><br><img src="/img/loading.gif" class="lazyload" data-src="https://picjumbo.com/wp-content/uploads/young-millennial-girl-drinking-lemonade-and-overlooking-the-city-2210x1473.jpg"  alt=""><br><img src="/img/loading.gif" class="lazyload" data-src="https://picjumbo.com/wp-content/uploads/modern-graphic-designer-essentials_free_stock_photos_picjumbo_HNCK4919-2210x1474.jpg"  alt=""></p>          </div>  <figure class="gallery-group">  <img class="gallery-group-img" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png'>  <figcaption>  <div class="gallery-group-name">壁纸</div>  <p>收藏的一些壁纸</p>  <a href='/Gallery/wallpaper'></a>  </figcaption>  </figure>  ]]></content>
       
@@ -31,8 +31,8 @@
     
     <entry>
       <title>reactnative</title>
-      <link href="/2020/04/06/reactnative/"/>
-      <url>/2020/04/06/reactnative/</url>
+      <link href="/category/reactnative/"/>
+      <url>/category/reactnative/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><!-- @format -->]]></content>
       
@@ -44,8 +44,8 @@
     
     <entry>
       <title>ReactJS</title>
-      <link href="/2020/04/05/ReactJS/"/>
-      <url>/2020/04/05/ReactJS/</url>
+      <link href="/category/ReactJS/"/>
+      <url>/category/ReactJS/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><!-- @format -->]]></content>
       
@@ -71,8 +71,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/2020/04/05/hello-world/"/>
-      <url>/2020/04/05/hello-world/</url>
+      <link href="/category/hello-world/"/>
+      <url>/category/hello-world/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
       
